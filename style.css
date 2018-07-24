@@ -28,11 +28,11 @@ p{
   margin: auto;
 }
 
-#details
+/*#details
 {
   display: block;
 }
-
+*/
 #details div {
   text-align: center;
   width: 25%;
