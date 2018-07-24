@@ -24,7 +24,7 @@ p{
 }
 #featured-property p{
   text-align: center;
-  display: block;
+  /*display: block;*/
   width: 800px;
   margin-left: auto;
   margin-right: auto;
