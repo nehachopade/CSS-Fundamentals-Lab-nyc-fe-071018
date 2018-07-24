@@ -31,7 +31,7 @@ p{
   display: block;
 }
 #details div {
-  float: right;
+  float: left;
   text-align: center;
   width: 25%;
   
